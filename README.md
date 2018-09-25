@@ -1,1 +1,2 @@
-# ipb-training-android-volley-full
+# ipb-android-training
+Main repository for IPB Android Training
